@@ -1,5 +1,8 @@
 # Prerequisites
 *.d
+.cproject
+.project
+.settings
 
 # Compiled Object files
 *.slo
@@ -30,3 +33,4 @@
 *.exe
 *.out
 *.app
+/Debug/
